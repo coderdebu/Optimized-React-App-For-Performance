@@ -2,7 +2,7 @@ import React, { memo, useState, useEffect } from 'react';
 import Logo from '../../icons/logo';
 import LogoText from '../../icons/logoText';
 import CommonButton from '../CommonButton';
-import UsaFlag from '../../icons/usaFlag';
+import UsaFlag from '../../icons/UsaFlag';
 import TitleText from '../TitleText';
 
 const Header = memo(() => {
